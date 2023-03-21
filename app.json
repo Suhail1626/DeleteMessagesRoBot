@@ -12,7 +12,7 @@
         "administrators",
         "messages"
     ],
-    "repository": "https://github.com/SpEcHiDe/DeleteMessagesRoBot",
+    "repository": "https://github.com/Suhail1626/DeleteMessagesRoBot",
     "website": "https://telegram.dog/SpEcHlDe",
     "success_url": "https://t.me/SpEcHlDe/857",
     "env": {
@@ -35,7 +35,7 @@
     "formation": {
         "worker": {
             "quantity": 1,
-            "size": "free"
+            "size": "eco"
         }
     },
     "stack": "heroku-20"
